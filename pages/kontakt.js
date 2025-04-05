@@ -3,7 +3,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Meta from '../components/meta'; // Adjust path if needed
-import MapSection from "../components/map"; // Assuming map component is correctly configured
+ // Assuming map component is correctly configured
 
 // --- Location for the Map ---
 // IMPORTANT: Verify these coordinates are accurate for Järvstigen 1, Borlänge
