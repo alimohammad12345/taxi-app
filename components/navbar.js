@@ -119,13 +119,7 @@ const Navbar = () => { // Changed component name to start with uppercase (standa
                   </a>
                 </Link>
               </li>
-              <li>
-  <Link href="/kontakt">
-    <a className="block py-2 pr-4 pl-3 text-gray-700 ... md:hover:text-amber-600 md:p-0">
-      KONTAKT
-    </a>
-  </Link>
-</li>
+           
             </ul>
           </div>
         </div>
