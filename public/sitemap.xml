@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- IMPORTANT: Replace https://www.taxidalaborlange.se with your ACTUAL domain in all <loc> tags -->
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/</loc>
+    <lastmod>2024-03-15</lastmod> <!-- CHANGE to current date or last update date -->
+    <changefreq>weekly</changefreq> <!-- How often content might change -->
+    <priority>1.0</priority> <!-- Highest priority -->
+  </url>
+
+  <!-- Main Service Pillar Page -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Specific Service Pages -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster/flygtaxi-borlange</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster/tagtaxi-borlange</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster/foretagstaxi-borlange</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster/seniortaxi-borlange</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster/taxi-romme-alpin</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq> <!-- Or yearly if price rarely changes -->
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster/bud-paket-borlange</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.taxidalaborlange.se/vara-tjanster/taxi-borlange-falun</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>monthly</changefreq> <!-- Or yearly if price rarely changes -->
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Pricing Page -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/priser</loc>
+    <lastmod>2024-03-15</lastmod> <!-- Update if prices change -->
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Online Booking Page -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/boka-online</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>yearly</changefreq> <!-- Content unlikely to change often -->
+    <priority>0.6</priority>
+  </url>
+
+  <!-- About Us Page -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/om-oss</loc>
+    <lastmod>2024-03-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/kontakt</loc>
+    <lastmod>2024-03-15</lastmod> <!-- Update if hours/details change -->
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Privacy Policy Page -->
+  <url>
+    <loc>https://www.taxidalaborlange.se/integritetspolicy-cookies</loc>
+    <lastmod>2024-03-15</lastmod> <!-- Update when policy is updated -->
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority> <!-- Lower priority for utility pages -->
+  </url>
+
+</urlset>

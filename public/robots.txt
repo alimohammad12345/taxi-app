@@ -1,0 +1,17 @@
+# robots.txt for Taxi Dalarna Borlänge website
+
+# Allow all ethical crawlers access
+User-agent: *
+Allow: /
+
+# Disallow crawling of API routes if they don't return useful public info
+# or if they handle sensitive POST requests (though robots usually don't POST)
+Disallow: /api/
+
+# Specific disallow for Next.js internal build/dev folders (Belt and suspenders - should not be publicly accessible anyway)
+Disallow: /_next/
+Disallow: /.next/
+
+# Point crawlers to the sitemap
+Sitemap: https://www.taxidalaborlange.se/sitemap.xml
+# IMPORTANT: Replace with your ACTUAL domain ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
